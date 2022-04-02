@@ -49,31 +49,32 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 W3schools
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-  One initial challenge that I encountered in creating this submission was handling the sounds when the corresponding buttons were pressed. I slowly analyzed the block of code that included the sound synthesis functions and also played around with the values in the frequency map. I believe that this is one of the most integral parts about being a programmer because it is necessary to break down code and try to understand the syntax and what purpose it serves within the whole program or application. 
+  
+  One initial challenge that I encountered in creating this submission was handling the sounds when the corresponding buttons were pressed. I slowly analyzed the block of code that included the sound synthesis functions and also played around with the values in the frequency map. I believe that this is one of the most integral parts about being a programmer because it is necessary to break down code and try to understand the syntax and what purpose it serves within the whole program or application.
 
  
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-The use of the sounds and frequencies in this project was the most appealing to me. In terms of web development, I believe that the utilization of sound is very rare since most of the focus is on the ui and ux and the content of the project. I was wondering if there are any other javascript modules that specifically integrate sound and also the schematics on how it works.
+The use of the sounds and frequencies in this project was the most appealing to me. In terms of web development, I believe that the utilization of sound is very rare since most of the focus is on the ui and ux and the content of the project. I was wondering if there are any other javascript modules that specifically integrate sound and also the schematics on how it works. It would be interesting to use these features on another small project. 
 
 
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-I would definitely challeng self by firstly patching the ui and incorporate a crisp design. Specifically, I would change the colors, the background, and make the project more welcoming. I believe that a proper and clean UI really changes the display of the program itself. In this case, I would incorporate a video game theme colorway with the background and the buttons. In addition, I would like to add more buttons and make the game more challenging and unpredictable. Moreover, I believe that adding a timer would have made the game much more interesting and fair. I would also use another framework such as react.js or vue.js. 
+I would definitely challenge myself by firstly patching the ui and incorporate a crisp design. Specifically, I would change the colors, the background, and make the project more welcoming. I believe that a proper and clean UI really changes the display of the program itself. In this case, I would incorporate a video game theme colorway with the background and the buttons. In addition, I would like to add more buttons and make the game more challenging and unpredictable. Moreover, I believe that adding a timer would have made the game much more interesting and fair. I would also use another framework such as react.js or vue.js. 
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](See github repo)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Tahmidur Rabb]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
